@@ -1,14 +1,17 @@
 # file-store
 Static files store built with PhalconPHP 2.x and MongoDB 3.0.x
 
-##Features:
+###Features:
 
 - Upload files/images with some configurable limits
 - Draw the images from MongoDB, make download link for other file types. 
 
 
-##Todo:
+###Todo:
 
 - Dynamic sizing images with specified parameters
 - Caching as normal files
 - Deal with other cloud storages
+
+
+####iTravelLocal team
